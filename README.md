@@ -4,7 +4,7 @@ Here's a sample **GitHub README** for your project:
 
 # NSGA-II with Comet Integration for ZDT2 Problem
 
-This repository implements the **Non-dominated Sorting Genetic Algorithm II (NSGA-II)** to solve the ZDT2 multi-objective optimization problem. The project includes integration with [Comet](https://www.comet.com/) for tracking experiments, metrics, and visualizations.
+This repository implements the **Non-dominated Sorting Genetic Algorithm II (NSGA-II)** to solve the ZDT2 and Comet multi-objective optimization problem.
 
 ---
 
